@@ -1,0 +1,71 @@
+{
+    "frame_counts": 11,
+    "frames": [
+        {
+            "name": "PLAYER_IDLE_1.png",
+            "url": "../resources/PLAYER_IDLE_1.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_2.png",
+            "url": "../resources/PLAYER_IDLE_2.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_3.png",
+            "url": "../resources/PLAYER_IDLE_3.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_4.png",
+            "url": "../resources/PLAYER_IDLE_4.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_5.png",
+            "url": "../resources/PLAYER_IDLE_5.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_6.png",
+            "url": "../resources/PLAYER_IDLE_6.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_7.png",
+            "url": "../resources/PLAYER_IDLE_7.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_8.png",
+            "url": "../resources/PLAYER_IDLE_8.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_9.png",
+            "url": "../resources/PLAYER_IDLE_9.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_10.png",
+            "url": "../resources/PLAYER_IDLE_10.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_IDLE_11.png",
+            "url": "../resources/PLAYER_IDLE_11.png",
+            "width": 332,
+            "height": 208
+        }
+    ]
+}

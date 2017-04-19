@@ -1,0 +1,41 @@
+{
+    "frame_counts": 6,
+    "frames": [
+        {
+            "name": "PLAYER_WALK_1.png",
+            "url": "../resources/PLAYER_WALK_1.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_WALK_2.png",
+            "url": "../resources/PLAYER_WALK_2.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_WALK_3.png",
+            "url": "../resources/PLAYER_WALK_3.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_WALK_4.png",
+            "url": "../resources/PLAYER_WALK_4.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_WALK_5.png",
+            "url": "../resources/PLAYER_WALK_5.png",
+            "width": 332,
+            "height": 208
+        },
+        {
+            "name": "PLAYER_WALK_6.png",
+            "url": "../resources/PLAYER_WALK_6.png",
+            "width": 332,
+            "height": 208
+        }
+    ]
+}
