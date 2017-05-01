@@ -72,7 +72,7 @@ function onLoadJsonResource(index: number, nodeCounts: number, configArray: infi
 
             index++;
             onLoadJsonResource(index, nodeCounts, configArray);
-
+                //async.every( array,function(){},onSuccess)
         })
 
         console.log(configArray[index].name);
